@@ -1,4 +1,6 @@
-# Buoy template
+# Buoy Template
+
+> A create-react-app template for playing with a local version of Buoy (or any local React package)
 
 ## Quick start
 
